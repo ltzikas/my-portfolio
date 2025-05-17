@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  ignoreduringBuilds: true,
+  /* config options here */
 };
 
 export default nextConfig;
